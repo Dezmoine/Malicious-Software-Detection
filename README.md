@@ -1,6 +1,6 @@
 # This document outlines the detection of malicious software.
 
-![Malware Detection Banner](s1.JPG)
+![Malware Detection Banner](s1.jpg)
 
 ---
 
